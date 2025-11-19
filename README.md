@@ -4,8 +4,8 @@
 ### Exercise 1:
 When coding websites in the past, you may have used Divs to help divide your content up. Semantic HTML tags make it easier to tell what content is contained inside of a tag. Let's convert this page to use the newer semantic HTML tags.
 
-#### Instructions
-1. Change the opening tag `<div class="header">` to `<header>`. Change the closing tag.
+#### InstructionsChange the opening tag `<div class="header">` to `<header>`. Change the closi
+1. ng tag.
 2. Change the opening tag `<div class="nav">` to `<nav>`. Change the closing tag.
 3. Change the opening tag `<div class="main">` to `<main>`. Change the closing tag.
 4. Change **each** of the `<div class="article">` tags to `<article>`. Don't forget to change the closing tag.
